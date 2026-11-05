@@ -1,0 +1,28 @@
+{
+    "lang": "es",
+    "name": "La10 System",
+    "short_name": "La10S",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "icons": [        
+        {
+            "src": "./favicon.png",
+            "sizes": "196x196",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./favicon.ico",
+            "sizes": "32x32 24x24 16x16",
+            "type": "image/x-icon"
+        },
+
+        {
+            "src": "./favicon.svg",
+            "sizes": "192x192 32x32 512x512",
+            "type": "image/svg+xml"
+        }
+    ]
+}

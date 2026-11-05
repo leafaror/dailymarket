@@ -1,0 +1,1 @@
+const a="/La10Backend/";async function i(t,n,o="api/edit.php"){const s={method:"POST",body:t};let r="";return sessionStorage.getItem("token")&&""+sessionStorage.getItem("token"),await fetch(a+"modules/"+n+"/"+o+"?"+r,s).then(e=>e.json()).then(e=>e).catch(e=>(console.log(e),{response:!1,msg:"Ocurrio un error, por favor intente de nuevo. "+e}))}export{i as h};

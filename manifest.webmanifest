@@ -1,0 +1,1 @@
+{"name":"Daily Market","short_name":"DailyMarket","description":"Punto de venta de productos de la vida diaria","start_url":"./","display":"standalone","background_color":"#000000","theme_color":"#000000","lang":"es","scope":"/dailymarket/","icons":[{"src":"./favicon.png","sizes":"196x196","type":"image/png"}]}
